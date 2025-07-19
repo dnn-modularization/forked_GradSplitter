@@ -1,3 +1,6 @@
+> This is modified version to compare to MODA: https://github.com/dnn-modularization/MODA <br>
+> Original version of GradSplitter can be found here: https://github.com/qibinhang/GradSplitter
+
 # Reusing Convolutional Neural Network Models through Modularization and Composition
 
 ## Introduction
